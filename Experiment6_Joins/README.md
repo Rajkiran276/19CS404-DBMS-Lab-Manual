@@ -212,6 +212,10 @@ join salesman s on o.salesman_id=s.salesman_id;
 
 ![image](https://github.com/user-attachments/assets/d31199f5-e4dd-4004-bedc-15f12aea82ef)
 
+SEB:
+
+<img width="1542" height="107" alt="image" src="https://github.com/user-attachments/assets/5ddc1b61-8ebb-4683-a013-e039b82a300b" />
+
 
 ## RESULT
 Thus, the SQL queries to implement different types of joins have been executed successfully.
