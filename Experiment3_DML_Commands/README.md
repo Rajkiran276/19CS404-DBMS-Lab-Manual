@@ -162,5 +162,10 @@ WHERE JOB_ID like'%MAN';
 
 ![image](https://github.com/user-attachments/assets/30c35d8d-ef7b-4012-8554-9d1fe551bc5b)
 
+SEB:
+
+<img width="1476" height="102" alt="image" src="https://github.com/user-attachments/assets/25dfc862-78c6-46c5-bbce-f5e90e381c21" />
+
+
 ## RESULT
 Thus, the SQL queries to implement DML commands have been executed successfully.
