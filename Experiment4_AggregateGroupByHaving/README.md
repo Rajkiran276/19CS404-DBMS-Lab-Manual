@@ -177,6 +177,10 @@ HAVING MIN(income) < 400000;
 
 ![image](https://github.com/user-attachments/assets/803d818b-9d1f-4472-93f6-4eaf2daa37fc)
 
+SEB:
+
+<img width="1520" height="142" alt="image" src="https://github.com/user-attachments/assets/7ff7e5d6-3516-41b3-8b0a-9b899aa70b2b" />
+
 
 ## RESULT
 Thus, the SQL queries to implement aggregate functions, GROUP BY, and HAVING clause have been executed successfully.
